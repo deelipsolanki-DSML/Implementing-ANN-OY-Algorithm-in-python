@@ -6,7 +6,7 @@ Finding similar data points becomes increasingly expensive as the size of a data
 
 This project explores how **Approximate Nearest Neighbor (ANN)** search can significantly reduce the amount of computation required while still retrieving highly similar results.
 
-In this notebook, I implement an **Annoy-style tree-based Approximate Nearest Neighbor algorithm from scratch** and compare it with a traditional exact nearest-neighbor search using the **MNIST dataset**.
+In this notebook, I implement a simple version of **Annoy-style tree-based Approximate Nearest Neighbor algorithm from scratch** and compare it with a traditional exact nearest-neighbor search using the **MNIST dataset**.
 
 ---
 
